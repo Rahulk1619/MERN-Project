@@ -11,7 +11,7 @@ const errorMiddleware = require("./middlewares/error-middleware.js");
 
 // CORS options
 const corsOptions = {
-    origin: "https://codecraftacadmyy.netlify.app",
+    origin: "https://codecraftacadmy.netlify.app",
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
     credentials: true,
 };
