@@ -1,0 +1,8 @@
+
+.container-footer{
+    background-color: var(--btn-color);
+    padding: 2.5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 4.5%;
+}
